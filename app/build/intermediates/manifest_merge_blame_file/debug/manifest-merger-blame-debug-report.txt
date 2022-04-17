@@ -1,0 +1,82 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ftdi.javad2xxdemo"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:7:5-9:41
+8        android:minSdkVersion="13"
+8-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:8:9-35
+9        android:targetSdkVersion="16" />
+9-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:9:9-38
+10
+11    <uses-feature android:name="android.hardware.usb.host" />
+11-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:6:2-59
+11-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:6:16-56
+12
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:40:3-79
+13-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:40:20-76
+14
+15    <application
+15-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:11:5-38:19
+16        android:debuggable="true"
+17        android:icon="@drawable/ic_launcher"
+17-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:12:9-45
+18        android:label="@string/app_name"
+18-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:13:9-41
+19        android:testOnly="true" >
+20        <service
+20-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:14:9-93
+21            android:name="com.ftdi.javad2xxdemo.services.BitBangModeIntentService"
+21-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:14:18-67
+22            android:enabled="true" />
+22-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:14:69-91
+23        <service
+23-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:15:9-87
+24            android:name="com.ftdi.javad2xxdemo.services.BitBangModeService"
+24-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:15:18-61
+25            android:enabled="true" />
+25-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:15:63-85
+26
+27        <activity
+27-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:16:9-36:20
+28            android:name="com.ftdi.javad2xxdemo.FragmentLayout"
+28-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:17:13-43
+29            android:configChanges="keyboardHidden|orientation|screenSize"
+29-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:20:13-74
+30            android:label="@string/title_activity_main"
+30-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:18:13-56
+31            android:launchMode="singleTask" >
+31-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:19:13-44
+32            <intent-filter>
+32-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:23:13-27:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:24:17-69
+33-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:24:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:26:17-77
+35-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:26:27-74
+36            </intent-filter>
+37            <intent-filter>
+37-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:29:13-31:29
+38                <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" />
+38-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:30:17-90
+38-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:30:25-87
+39            </intent-filter>
+40
+41            <meta-data
+41-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:33:13-34:57
+42                android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED"
+42-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:33:24-86
+43                android:resource="@xml/device_filter" />
+43-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:34:17-54
+44        </activity>
+45        <activity android:name="com.ftdi.javad2xxdemo.FragmentLayout$DetailsActivity" />
+45-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:37:9-67
+45-->/Users/zhangwen/Workspace/ykqcs2/app/src/main/AndroidManifest.xml:37:19-65
+46    </application>
+47
+48</manifest>

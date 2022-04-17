@@ -1,0 +1,145 @@
+com/ftdi/javad2xxdemo/FT2232HTestFragment.java
+ com.ftdi.javad2xxdemo.FT2232HTestFragment
+ com.ftdi.javad2xxdemo.FT2232HTestFragment$1
+ com.ftdi.javad2xxdemo.FT2232HTestFragment$2
+ com.ftdi.javad2xxdemo.FT2232HTestFragment$3
+ com.ftdi.javad2xxdemo.FT2232HTestFragment$4
+ com.ftdi.javad2xxdemo.FT2232HTestFragment$5
+ com.ftdi.javad2xxdemo.FT2232HTestFragment$MyOnBaudSelectedListener
+ com.ftdi.javad2xxdemo.FT2232HTestFragment$MyOnDataSelectedListener
+ com.ftdi.javad2xxdemo.FT2232HTestFragment$MyOnFlowSelectedListener
+ com.ftdi.javad2xxdemo.FT2232HTestFragment$MyOnParitySelectedListener
+ com.ftdi.javad2xxdemo.FT2232HTestFragment$MyOnStopSelectedListener
+ com.ftdi.javad2xxdemo.FT2232HTestFragment$readThread
+ com.ftdi.javad2xxdemo.FT2232HTestFragment$readThread_1
+com/ftdi/javad2xxdemo/EEPROMFragment.java
+ com.ftdi.javad2xxdemo.EEPROMFragment
+ com.ftdi.javad2xxdemo.EEPROMFragment$1
+ com.ftdi.javad2xxdemo.EEPROMFragment$2
+ com.ftdi.javad2xxdemo.EEPROMFragment$3
+com/ftdi/javad2xxdemo/OpenDeviceFragment.java
+ com.ftdi.javad2xxdemo.OpenDeviceFragment
+ com.ftdi.javad2xxdemo.OpenDeviceFragment$1
+ com.ftdi.javad2xxdemo.OpenDeviceFragment$2
+ com.ftdi.javad2xxdemo.OpenDeviceFragment$3
+ com.ftdi.javad2xxdemo.OpenDeviceFragment$4
+com/ftdi/javad2xxdemo/FragmentLayout.java
+ com.ftdi.javad2xxdemo.FragmentLayout
+ com.ftdi.javad2xxdemo.FragmentLayout$1
+ com.ftdi.javad2xxdemo.FragmentLayout$DetailsActivity
+ com.ftdi.javad2xxdemo.FragmentLayout$DetailsFragment
+ com.ftdi.javad2xxdemo.FragmentLayout$TitlesFragment
+com/ftdi/javad2xxdemo/DevicePIDVIDFragment.java
+ com.ftdi.javad2xxdemo.DevicePIDVIDFragment
+ com.ftdi.javad2xxdemo.DevicePIDVIDFragment$1
+ com.ftdi.javad2xxdemo.DevicePIDVIDFragment$2
+com/ftdi/javad2xxdemo/DeviceFileTransferFragment.java
+ com.ftdi.javad2xxdemo.DeviceFileTransferFragment
+ com.ftdi.javad2xxdemo.DeviceFileTransferFragment$1
+ com.ftdi.javad2xxdemo.DeviceFileTransferFragment$2
+ com.ftdi.javad2xxdemo.DeviceFileTransferFragment$3
+ com.ftdi.javad2xxdemo.DeviceFileTransferFragment$4
+ com.ftdi.javad2xxdemo.DeviceFileTransferFragment$5
+ com.ftdi.javad2xxdemo.DeviceFileTransferFragment$MyOnBaudSelectedListener
+ com.ftdi.javad2xxdemo.DeviceFileTransferFragment$MyOnDataSelectedListener
+ com.ftdi.javad2xxdemo.DeviceFileTransferFragment$MyOnFlowSelectedListener
+ com.ftdi.javad2xxdemo.DeviceFileTransferFragment$MyOnParitySelectedListener
+ com.ftdi.javad2xxdemo.DeviceFileTransferFragment$MyOnStopSelectedListener
+ com.ftdi.javad2xxdemo.DeviceFileTransferFragment$save_file_thread
+ com.ftdi.javad2xxdemo.DeviceFileTransferFragment$send_file_thread
+com/ftdi/javad2xxdemo/FtdiModeListInfo.java
+ com.ftdi.javad2xxdemo.FtdiModeListInfo
+com/ftdi/javad2xxdemo/FT4232HTestFragment.java
+ com.ftdi.javad2xxdemo.FT4232HTestFragment
+ com.ftdi.javad2xxdemo.FT4232HTestFragment$1
+ com.ftdi.javad2xxdemo.FT4232HTestFragment$2
+ com.ftdi.javad2xxdemo.FT4232HTestFragment$3
+ com.ftdi.javad2xxdemo.FT4232HTestFragment$4
+ com.ftdi.javad2xxdemo.FT4232HTestFragment$5
+ com.ftdi.javad2xxdemo.FT4232HTestFragment$6
+ com.ftdi.javad2xxdemo.FT4232HTestFragment$7
+ com.ftdi.javad2xxdemo.FT4232HTestFragment$8
+ com.ftdi.javad2xxdemo.FT4232HTestFragment$9
+ com.ftdi.javad2xxdemo.FT4232HTestFragment$MyOnBaudSelectedListener
+ com.ftdi.javad2xxdemo.FT4232HTestFragment$MyOnDataSelectedListener
+ com.ftdi.javad2xxdemo.FT4232HTestFragment$MyOnFlowSelectedListener
+ com.ftdi.javad2xxdemo.FT4232HTestFragment$MyOnParitySelectedListener
+ com.ftdi.javad2xxdemo.FT4232HTestFragment$MyOnStopSelectedListener
+ com.ftdi.javad2xxdemo.FT4232HTestFragment$readThread
+ com.ftdi.javad2xxdemo.FT4232HTestFragment$readThread_1
+ com.ftdi.javad2xxdemo.FT4232HTestFragment$readThread_2
+ com.ftdi.javad2xxdemo.FT4232HTestFragment$readThread_3
+com/ftdi/javad2xxdemo/MPSEFragment.java
+ com.ftdi.javad2xxdemo.MPSEFragment
+ com.ftdi.javad2xxdemo.MPSEFragment$1
+ com.ftdi.javad2xxdemo.MPSEFragment$2
+ com.ftdi.javad2xxdemo.MPSEFragment$3
+ com.ftdi.javad2xxdemo.MPSEFragment$BitModeAsyncTask
+ com.ftdi.javad2xxdemo.MPSEFragment$mpseThread
+ com.ftdi.javad2xxdemo.MPSEFragment$timerTask
+com/ftdi/javad2xxdemo/MiscFragment.java
+ com.ftdi.javad2xxdemo.MiscFragment
+ com.ftdi.javad2xxdemo.MiscFragment$1
+ com.ftdi.javad2xxdemo.MiscFragment$2
+ com.ftdi.javad2xxdemo.MiscFragment$3
+ com.ftdi.javad2xxdemo.MiscFragment$4
+ com.ftdi.javad2xxdemo.MiscFragment$5
+ com.ftdi.javad2xxdemo.MiscFragment$6
+ com.ftdi.javad2xxdemo.MiscFragment$7
+ com.ftdi.javad2xxdemo.MiscFragment$8
+ com.ftdi.javad2xxdemo.MiscFragment$9
+ com.ftdi.javad2xxdemo.MiscFragment$BitModeAsyncTask
+ com.ftdi.javad2xxdemo.MiscFragment$EventThread
+ com.ftdi.javad2xxdemo.MiscFragment$LoopbackReadThread
+ com.ftdi.javad2xxdemo.MiscFragment$mpseThread
+ com.ftdi.javad2xxdemo.MiscFragment$timerTask
+com/ftdi/javad2xxdemo/services/BitBangModeService.java
+ com.ftdi.javad2xxdemo.services.BitBangModeService
+ com.ftdi.javad2xxdemo.services.BitBangModeService$ServiceHandler
+com/ftdi/javad2xxdemo/EEPROMUserAreaFragment.java
+ com.ftdi.javad2xxdemo.EEPROMUserAreaFragment
+ com.ftdi.javad2xxdemo.EEPROMUserAreaFragment$1
+ com.ftdi.javad2xxdemo.EEPROMUserAreaFragment$2
+ com.ftdi.javad2xxdemo.EEPROMUserAreaFragment$3
+com/ftdi/javad2xxdemo/services/BitBangModeIntentService.java
+ com.ftdi.javad2xxdemo.services.BitBangModeIntentService
+com/ftdi/javad2xxdemo/DeviceInformationFragment.java
+ com.ftdi.javad2xxdemo.DeviceInformationFragment
+ com.ftdi.javad2xxdemo.DeviceInformationFragment$1
+ com.ftdi.javad2xxdemo.DeviceInformationFragment$2
+com/ftdi/javad2xxdemo/DeviceUARTFragment.java
+ com.ftdi.javad2xxdemo.DeviceUARTFragment
+ com.ftdi.javad2xxdemo.DeviceUARTFragment$1
+ com.ftdi.javad2xxdemo.DeviceUARTFragment$2
+ com.ftdi.javad2xxdemo.DeviceUARTFragment$3
+ com.ftdi.javad2xxdemo.DeviceUARTFragment$4
+ com.ftdi.javad2xxdemo.DeviceUARTFragment$5
+ com.ftdi.javad2xxdemo.DeviceUARTFragment$6
+ com.ftdi.javad2xxdemo.DeviceUARTFragment$7
+ com.ftdi.javad2xxdemo.DeviceUARTFragment$MyOnBaudSelectedListener
+ com.ftdi.javad2xxdemo.DeviceUARTFragment$MyOnDataSelectedListener
+ com.ftdi.javad2xxdemo.DeviceUARTFragment$MyOnFlowSelectedListener
+ com.ftdi.javad2xxdemo.DeviceUARTFragment$MyOnParitySelectedListener
+ com.ftdi.javad2xxdemo.DeviceUARTFragment$MyOnPortSelectedListener
+ com.ftdi.javad2xxdemo.DeviceUARTFragment$MyOnStopSelectedListener
+ com.ftdi.javad2xxdemo.DeviceUARTFragment$readThread
+com/ftdi/javad2xxdemo/FtdiEventFragment.java
+ com.ftdi.javad2xxdemo.FtdiEventFragment
+ com.ftdi.javad2xxdemo.FtdiEventFragment$1
+ com.ftdi.javad2xxdemo.FtdiEventFragment$2
+ com.ftdi.javad2xxdemo.FtdiEventFragment$3
+ com.ftdi.javad2xxdemo.FtdiEventFragment$4
+ com.ftdi.javad2xxdemo.FtdiEventFragment$5
+ com.ftdi.javad2xxdemo.FtdiEventFragment$EventThread
+ com.ftdi.javad2xxdemo.FtdiEventFragment$timerTask
+com/ftdi/javad2xxdemo/RS232PinConfigFragment.java
+ com.ftdi.javad2xxdemo.RS232PinConfigFragment
+ com.ftdi.javad2xxdemo.RS232PinConfigFragment$1
+ com.ftdi.javad2xxdemo.RS232PinConfigFragment$2
+com/ftdi/javad2xxdemo/BuildConfig.java
+ com.ftdi.javad2xxdemo.BuildConfig
+com/ftdi/javad2xxdemo/DeviceStatusFragment.java
+ com.ftdi.javad2xxdemo.DeviceStatusFragment
+ com.ftdi.javad2xxdemo.DeviceStatusFragment$1
+ com.ftdi.javad2xxdemo.DeviceStatusFragment$2
+ com.ftdi.javad2xxdemo.DeviceStatusFragment$3

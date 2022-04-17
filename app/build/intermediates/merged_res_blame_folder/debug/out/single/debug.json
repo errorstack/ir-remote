@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/Users/zhangwen/Workspace/ykqcs2/app/build/intermediates/merged_res/debug/layout_device_ft4232htest.xml.flat",
+        "source": "/Users/zhangwen/Workspace/ykqcs2/app/src/main/res/layout/device_ft4232htest.xml"
+    },
+    {
+        "merged": "/Users/zhangwen/Workspace/ykqcs2/app/build/intermediates/merged_res/debug/drawable-hdpi_button_pattern.xml.flat",
+        "source": "/Users/zhangwen/Workspace/ykqcs2/app/src/main/res/drawable-hdpi/button_pattern.xml"
+    },
+    {
+        "merged": "/Users/zhangwen/Workspace/ykqcs2/app/build/intermediates/merged_res/debug/layout_device_mpse.xml.flat",
+        "source": "/Users/zhangwen/Workspace/ykqcs2/app/src/main/res/layout/device_mpse.xml"
+    },
+    {
+        "merged": "/Users/zhangwen/Workspace/ykqcs2/app/build/intermediates/merged_res/debug/layout_device_eeprom_userarea.xml.flat",
+        "source": "/Users/zhangwen/Workspace/ykqcs2/app/src/main/res/layout/device_eeprom_userarea.xml"
+    },
+    {
+        "merged": "/Users/zhangwen/Workspace/ykqcs2/app/build/intermediates/merged_res/debug/layout_ykq.xml.flat",
+        "source": "/Users/zhangwen/Workspace/ykqcs2/app/src/main/res/layout/ykq.xml"
+    },
+    {
+        "merged": "/Users/zhangwen/Workspace/ykqcs2/app/build/intermediates/merged_res/debug/layout-large_fragment_layout.xml.flat",
+        "source": "/Users/zhangwen/Workspace/ykqcs2/app/src/main/res/layout-large/fragment_layout.xml"
+    },
+    {
+        "merged": "/Users/zhangwen/Workspace/ykqcs2/app/build/intermediates/merged_res/debug/layout_device_status.xml.flat",
+        "source": "/Users/zhangwen/Workspace/ykqcs2/app/src/main/res/layout/device_status.xml"
+    },
+    {
+        "merged": "/Users/zhangwen/Workspace/ykqcs2/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_launcher.png.flat",
+        "source": "/Users/zhangwen/Workspace/ykqcs2/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhangwen/Workspace/ykqcs2/app/build/intermediates/merged_res/debug/layout_device_event.xml.flat",
+        "source": "/Users/zhangwen/Workspace/ykqcs2/app/src/main/res/layout/device_event.xml"
+    },
+    {
+        "merged": "/Users/zhangwen/Workspace/ykqcs2/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/zhangwen/Workspace/ykqcs2/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhangwen/Workspace/ykqcs2/app/build/intermediates/merged_res/debug/layout_device_rs232pinconfig.xml.flat",
+        "source": "/Users/zhangwen/Workspace/ykqcs2/app/src/main/res/layout/device_rs232pinconfig.xml"
+    },
+    {
+        "merged": "/Users/zhangwen/Workspace/ykqcs2/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/zhangwen/Workspace/ykqcs2/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhangwen/Workspace/ykqcs2/app/build/intermediates/merged_res/debug/layout_device_bit_mode_service.xml.flat",
+        "source": "/Users/zhangwen/Workspace/ykqcs2/app/src/main/res/layout/device_bit_mode_service.xml"
+    },
+    {
+        "merged": "/Users/zhangwen/Workspace/ykqcs2/app/build/intermediates/merged_res/debug/layout_device_eeprom.xml.flat",
+        "source": "/Users/zhangwen/Workspace/ykqcs2/app/src/main/res/layout/device_eeprom.xml"
+    },
+    {
+        "merged": "/Users/zhangwen/Workspace/ykqcs2/app/build/intermediates/merged_res/debug/layout_device_bitmode.xml.flat",
+        "source": "/Users/zhangwen/Workspace/ykqcs2/app/src/main/res/layout/device_bitmode.xml"
+    },
+    {
+        "merged": "/Users/zhangwen/Workspace/ykqcs2/app/build/intermediates/merged_res/debug/layout_device_uart.xml.flat",
+        "source": "/Users/zhangwen/Workspace/ykqcs2/app/src/main/res/layout/device_uart.xml"
+    },
+    {
+        "merged": "/Users/zhangwen/Workspace/ykqcs2/app/build/intermediates/merged_res/debug/layout_device_pidvid.xml.flat",
+        "source": "/Users/zhangwen/Workspace/ykqcs2/app/src/main/res/layout/device_pidvid.xml"
+    },
+    {
+        "merged": "/Users/zhangwen/Workspace/ykqcs2/app/build/intermediates/merged_res/debug/layout_device_misc.xml.flat",
+        "source": "/Users/zhangwen/Workspace/ykqcs2/app/src/main/res/layout/device_misc.xml"
+    },
+    {
+        "merged": "/Users/zhangwen/Workspace/ykqcs2/app/build/intermediates/merged_res/debug/xml_device_filter.xml.flat",
+        "source": "/Users/zhangwen/Workspace/ykqcs2/app/src/main/res/xml/device_filter.xml"
+    },
+    {
+        "merged": "/Users/zhangwen/Workspace/ykqcs2/app/build/intermediates/merged_res/debug/layout_device_opendevice.xml.flat",
+        "source": "/Users/zhangwen/Workspace/ykqcs2/app/src/main/res/layout/device_opendevice.xml"
+    },
+    {
+        "merged": "/Users/zhangwen/Workspace/ykqcs2/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/zhangwen/Workspace/ykqcs2/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhangwen/Workspace/ykqcs2/app/build/intermediates/merged_res/debug/layout_fragment_layout.xml.flat",
+        "source": "/Users/zhangwen/Workspace/ykqcs2/app/src/main/res/layout/fragment_layout.xml"
+    },
+    {
+        "merged": "/Users/zhangwen/Workspace/ykqcs2/app/build/intermediates/merged_res/debug/layout_device_ft2232htest.xml.flat",
+        "source": "/Users/zhangwen/Workspace/ykqcs2/app/src/main/res/layout/device_ft2232htest.xml"
+    },
+    {
+        "merged": "/Users/zhangwen/Workspace/ykqcs2/app/build/intermediates/merged_res/debug/layout_device_filetransfer.xml.flat",
+        "source": "/Users/zhangwen/Workspace/ykqcs2/app/src/main/res/layout/device_filetransfer.xml"
+    },
+    {
+        "merged": "/Users/zhangwen/Workspace/ykqcs2/app/build/intermediates/merged_res/debug/layout_my_spinner_textview.xml.flat",
+        "source": "/Users/zhangwen/Workspace/ykqcs2/app/src/main/res/layout/my_spinner_textview.xml"
+    },
+    {
+        "merged": "/Users/zhangwen/Workspace/ykqcs2/app/build/intermediates/merged_res/debug/layout_device_information.xml.flat",
+        "source": "/Users/zhangwen/Workspace/ykqcs2/app/src/main/res/layout/device_information.xml"
+    }
+]

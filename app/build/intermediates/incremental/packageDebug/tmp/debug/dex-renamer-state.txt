@@ -1,0 +1,4 @@
+#Wed Apr 13 21:36:48 CST 2022
+base.0=/Users/zhangwen/Workspace/ykqcs2/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
